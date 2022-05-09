@@ -6,7 +6,7 @@ Geektech 14Py group - Final project
 echo "# geektech-custom-cups" >> README.md
 
 git config --global user.name "your nickname"
-git config --global user.email "aky-oka@yandex.ru"
+git config --global user.email "your email"
 
 git init
 git add README.md
